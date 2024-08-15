@@ -101,6 +101,8 @@ The dashboard is designed with a variety of visuals, each serving a specific pur
 
 #### **1. KPI Cards: Key Performance Indicators at a Glance**
 
+<img src="https://github.com/Aishwaryachen11/Sales-Performance-Report-PowerBI/blob/main/Images/KPI%20Cards.png" alt="Description" width="350"/>
+
 **Chart Overview:**
 Chart Type: KPI Cards
 Title: Key Performance Indicators (YTD, PYTD, YTD vs PYTD Difference, GP%)
@@ -123,6 +125,8 @@ Profitability Monitoring: The GP% card helps track the company's profitability, 
 Strategic Decision-Making: These KPIs support data-driven decisions by highlighting areas that need attention, ensuring that management can prioritize actions effectively.
 
 #### **2. Waterfall Chart: Gross Profit YTD vs PYTD | Month - Country - Product**
+
+<img src="https://github.com/Aishwaryachen11/Sales-Performance-Report-PowerBI/blob/main/Images/Waterfall%20Chart.png" alt="Description" width="350"/>
 
 **Chart Overview:**
 Chart Type: Waterfall Chart
@@ -149,6 +153,8 @@ Seasonality:
 By looking at the trends across months, you can identify seasonal patterns. For instance, a consistent dip in certain months across both years might indicate a seasonal trend rather than a performance issue.
 
 #### **3. Line and Clustered Column Chart: Gross Profit YTD & PYTD | Month**
+
+<img src="https://github.com/Aishwaryachen11/Sales-Performance-Report-PowerBI/blob/main/Images/Line%20%26%20Clustered%20Column%20Cart.png" alt="Description" width="350"/>
 
 **Chart Overview:**
 Chart Type: Line and Clustered Column Chart
@@ -181,6 +187,8 @@ Seasonality and Trends:
 If the red line consistently outperforms the columns, it indicates that the current year is doing better than the previous year. Conversely, if the columns are higher, it indicates a positive trend in gross profit growth year-over-year.
 
 #### **4. Scatter Plot: Account Profitability Segmentation | GP% and Gross Profit**
+
+<img src="https://github.com/Aishwaryachen11/Sales-Performance-Report-PowerBI/blob/main/Images/Scatter%20Plot.png" alt="Description" width="350"/>
 
 **Chart Overview:**
 Chart Type: Scatter Plot
@@ -224,6 +232,8 @@ Trend Identification: By observing the distribution of accounts, you can identif
 
 #### **5. Multi-Row Card: Top 5 Countries with High YTD Vs PYTD Difference**
 
+<img src="https://github.com/Aishwaryachen11/Sales-Performance-Report-PowerBI/blob/main/Images/Multirow%20Card.png" alt="Description" width="350"/>
+
 **Chart Overview:**
 Chart Type: Multi-Row Card
 Title: Top 5 Countries with High YTD vs PYTD Difference
@@ -246,6 +256,8 @@ The Multi-Row Card provides a concise list of the top 5 countries with the large
 •	Quick Comparison: The format allows for a quick and easy comparison of performance across different countries.
 
 #### **6. Matrix Visuals: Top 5 Countries by YTD and PYTD**
+
+<img src="https://github.com/Aishwaryachen11/Sales-Performance-Report-PowerBI/blob/main/Images/Matrix%20Visuals.png" alt="Description" width="350"/>
 
 **Chart Overview:**
 Chart Type: Matrix Visuals
@@ -271,8 +283,10 @@ Scenario Analysis:
 Management can apply filters to focus on specific product categories or regional groupings to see how different areas are performing. Additionally, using time filters, they can assess performance across different quarters or months.
 
 #### **Scenario 1: Yearly Performance Analysis of Outdoor Products (2023)**
-Filters to Apply:
 
+<img src="https://github.com/Aishwaryachen11/Sales-Performance-Report-PowerBI/blob/main/Images/Scenario%201.png" alt="Description" width="300"/>
+
+Filters to Apply:
 Year: 2023
 Product Type: Outdoor Products
 Time Period: Full Year (January to December)
@@ -295,6 +309,8 @@ Address Market-Specific Challenges: Investigate the factors contributing to the 
 Leverage Seasonal Trends: Continue to leverage the seasonal demand for Outdoor Products by planning targeted marketing campaigns around the summer months. The sales surge during June and July suggests that consumers are highly responsive to promotions during this period, making it an ideal time for new product launches or discounts.
 
 #### **Scenario: Sales Performance Analysis in China for 2023**
+
+<img src="https://github.com/Aishwaryachen11/Sales-Performance-Report-PowerBI/blob/main/Images/Scenario%202.png" alt="Description" width="300"/>
 
 **1. Market Share and Growth**
 YTD vs PYTD Analysis:
