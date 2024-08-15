@@ -232,7 +232,7 @@ Trend Identification: By observing the distribution of accounts, you can identif
 
 #### **5. Multi-Row Card: Top 5 Countries with High YTD Vs PYTD Difference**
 
-<img src="https://github.com/Aishwaryachen11/Sales-Performance-Report-PowerBI/blob/main/Images/Multirow%20Card.png" alt="Description" width="300"/>
+<img src="https://github.com/Aishwaryachen11/Sales-Performance-Report-PowerBI/blob/main/Images/Multirow%20Card.png" alt="Description" width="230"/>
 
 **Chart Overview:**
 Chart Type: Multi-Row Card
@@ -257,7 +257,7 @@ The Multi-Row Card provides a concise list of the top 5 countries with the large
 
 #### **6. Matrix Visuals: Top 5 Countries by YTD and PYTD**
 
-<img src="https://github.com/Aishwaryachen11/Sales-Performance-Report-PowerBI/blob/main/Images/Matrix%20Visuals.png" alt="Description" width="300"/>
+<img src="https://github.com/Aishwaryachen11/Sales-Performance-Report-PowerBI/blob/main/Images/Matrix%20Visuals.png" alt="Description" width="230"/>
 
 **Chart Overview:**
 Chart Type: Matrix Visuals
@@ -284,7 +284,7 @@ Management can apply filters to focus on specific product categories or regional
 
 #### **Scenario 1: Yearly Performance Analysis of Outdoor Products (2023)**
 
-<img src="https://github.com/Aishwaryachen11/Sales-Performance-Report-PowerBI/blob/main/Images/Scenario%201.png" alt="Description" width="400"/>
+<img src="https://github.com/Aishwaryachen11/Sales-Performance-Report-PowerBI/blob/main/Images/Scenario%201.png" alt="Description" width="450"/>
 
 Filters to Apply:
 Year: 2023
@@ -310,7 +310,7 @@ Leverage Seasonal Trends: Continue to leverage the seasonal demand for Outdoor P
 
 #### **Scenario: Sales Performance Analysis in China for 2023**
 
-<img src="https://github.com/Aishwaryachen11/Sales-Performance-Report-PowerBI/blob/main/Images/Scenario%202.png" alt="Description" width="400"/>
+<img src="https://github.com/Aishwaryachen11/Sales-Performance-Report-PowerBI/blob/main/Images/Scenario%202.png" alt="Description" width="450"/>
 
 **1. Market Share and Growth**
 YTD vs PYTD Analysis:
