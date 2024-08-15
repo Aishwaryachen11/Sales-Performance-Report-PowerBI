@@ -101,7 +101,7 @@ The dashboard is designed with a variety of visuals, each serving a specific pur
 
 #### **1. KPI Cards: Key Performance Indicators at a Glance**
 
-<img src="https://github.com/Aishwaryachen11/Sales-Performance-Report-PowerBI/blob/main/Images/KPI%20Cards.png" alt="Description" width="350"/>
+<img src="https://github.com/Aishwaryachen11/Sales-Performance-Report-PowerBI/blob/main/Images/KPI%20Cards.png" alt="Description" width="400"/>
 
 **Chart Overview:**
 Chart Type: KPI Cards
@@ -126,7 +126,7 @@ Strategic Decision-Making: These KPIs support data-driven decisions by highlight
 
 #### **2. Waterfall Chart: Gross Profit YTD vs PYTD | Month - Country - Product**
 
-<img src="https://github.com/Aishwaryachen11/Sales-Performance-Report-PowerBI/blob/main/Images/Waterfall%20Chart.png" alt="Description" width="350"/>
+<img src="https://github.com/Aishwaryachen11/Sales-Performance-Report-PowerBI/blob/main/Images/Waterfall%20Chart.png" alt="Description" width="400"/>
 
 **Chart Overview:**
 Chart Type: Waterfall Chart
@@ -154,7 +154,7 @@ By looking at the trends across months, you can identify seasonal patterns. For 
 
 #### **3. Line and Clustered Column Chart: Gross Profit YTD & PYTD | Month**
 
-<img src="https://github.com/Aishwaryachen11/Sales-Performance-Report-PowerBI/blob/main/Images/Line%20%26%20Clustered%20Column%20Cart.png" alt="Description" width="350"/>
+<img src="https://github.com/Aishwaryachen11/Sales-Performance-Report-PowerBI/blob/main/Images/Line%20%26%20Clustered%20Column%20Cart.png" alt="Description" width="400"/>
 
 **Chart Overview:**
 Chart Type: Line and Clustered Column Chart
@@ -188,7 +188,7 @@ If the red line consistently outperforms the columns, it indicates that the curr
 
 #### **4. Scatter Plot: Account Profitability Segmentation | GP% and Gross Profit**
 
-<img src="https://github.com/Aishwaryachen11/Sales-Performance-Report-PowerBI/blob/main/Images/Scatter%20Plot.png" alt="Description" width="350"/>
+<img src="https://github.com/Aishwaryachen11/Sales-Performance-Report-PowerBI/blob/main/Images/Scatter%20Plot.png" alt="Description" width="400"/>
 
 **Chart Overview:**
 Chart Type: Scatter Plot
@@ -232,7 +232,7 @@ Trend Identification: By observing the distribution of accounts, you can identif
 
 #### **5. Multi-Row Card: Top 5 Countries with High YTD Vs PYTD Difference**
 
-<img src="https://github.com/Aishwaryachen11/Sales-Performance-Report-PowerBI/blob/main/Images/Multirow%20Card.png" alt="Description" width="350"/>
+<img src="https://github.com/Aishwaryachen11/Sales-Performance-Report-PowerBI/blob/main/Images/Multirow%20Card.png" alt="Description" width="300"/>
 
 **Chart Overview:**
 Chart Type: Multi-Row Card
@@ -257,7 +257,7 @@ The Multi-Row Card provides a concise list of the top 5 countries with the large
 
 #### **6. Matrix Visuals: Top 5 Countries by YTD and PYTD**
 
-<img src="https://github.com/Aishwaryachen11/Sales-Performance-Report-PowerBI/blob/main/Images/Matrix%20Visuals.png" alt="Description" width="350"/>
+<img src="https://github.com/Aishwaryachen11/Sales-Performance-Report-PowerBI/blob/main/Images/Matrix%20Visuals.png" alt="Description" width="300"/>
 
 **Chart Overview:**
 Chart Type: Matrix Visuals
@@ -284,7 +284,7 @@ Management can apply filters to focus on specific product categories or regional
 
 #### **Scenario 1: Yearly Performance Analysis of Outdoor Products (2023)**
 
-<img src="https://github.com/Aishwaryachen11/Sales-Performance-Report-PowerBI/blob/main/Images/Scenario%201.png" alt="Description" width="300"/>
+<img src="https://github.com/Aishwaryachen11/Sales-Performance-Report-PowerBI/blob/main/Images/Scenario%201.png" alt="Description" width="400"/>
 
 Filters to Apply:
 Year: 2023
@@ -310,7 +310,7 @@ Leverage Seasonal Trends: Continue to leverage the seasonal demand for Outdoor P
 
 #### **Scenario: Sales Performance Analysis in China for 2023**
 
-<img src="https://github.com/Aishwaryachen11/Sales-Performance-Report-PowerBI/blob/main/Images/Scenario%202.png" alt="Description" width="300"/>
+<img src="https://github.com/Aishwaryachen11/Sales-Performance-Report-PowerBI/blob/main/Images/Scenario%202.png" alt="Description" width="400"/>
 
 **1. Market Share and Growth**
 YTD vs PYTD Analysis:
