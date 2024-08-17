@@ -1,4 +1,7 @@
 ## **POWER BI SALES PERFORMANCE DASHBOARD**
+
+Power BI report can be viewed here [![Power BI Report](https://img.shields.io/badge/Power_BI-Report-blue)](https://app.powerbi.com/reportEmbed?reportId=84dc0a4d-059d-46a3-bbab-712e633db11a&autoAuth=true&ctid=a07a08e4-f462-4dcc-adea-5a9d6e00d8ec)
+
 ### **Introduction:**
 In the ever-evolving business landscape, companies are constantly seeking ways to harness data to drive strategic decision-making and improve performance. The ability to monitor key performance indicators (KPIs) and track them over time is crucial for understanding market trends, identifying opportunities, and addressing challenges. This Power BI Sales Performance Dashboard project is designed to fulfill this need by offering a dynamic and interactive platform for analyzing sales data.
 
